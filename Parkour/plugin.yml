@@ -1,0 +1,7 @@
+main: me.richard12799.parkour.Parkour
+version: 1.0
+name: TotalParkour
+author: richard12799
+commands:
+    pa:
+        description: Main Parkour Command.
