@@ -1,0 +1,8 @@
+main: me.richard12799.templerun.TempleRun
+version: 1.0
+name: TempleRun
+author: richard12799
+depend: [Vault]
+commands:
+    templerun:
+        description: Basic Temple Run command.
